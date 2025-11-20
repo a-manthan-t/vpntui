@@ -8,4 +8,5 @@ to be accessed by the program.
 To build, run `nim -d:release c main.nim`.
 
 Screenshot of program:
+
 ![](screenshot.png)
